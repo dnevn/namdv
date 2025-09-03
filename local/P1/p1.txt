@@ -1,0 +1,9 @@
+* Config:
+    git config --global user.name "dnevn"
+    git config --global user.email "daonamevn@gmail.com"
+
+    git config --global --list
+
+* Create branch P1:
+    git branch P1
+    git checkout P1
