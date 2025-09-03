@@ -1,0 +1,4 @@
+* Config list:
+    git config --global --list
+    user.name=dnevn
+    user.email=daonamevn@gmail.com
