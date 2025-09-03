@@ -7,3 +7,9 @@
 * Create branch P1:
     git branch P1
     git checkout P1
+
+* Commit and Push:
+    git add .
+    git commit -m "create branch P1"
+    git push -u origin P1
+    
